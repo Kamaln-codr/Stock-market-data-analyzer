@@ -1,1 +1,1 @@
-this a start of project
+print("this a start of project")
